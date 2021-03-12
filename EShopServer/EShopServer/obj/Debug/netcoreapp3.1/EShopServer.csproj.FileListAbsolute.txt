@@ -1,9 +1,0 @@
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\obj\Debug\netcoreapp3.1\EShopServer.csprojAssemblyReference.cache
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\obj\Debug\netcoreapp3.1\staticwebassets\EShopServer.StaticWebAssets.Manifest.cache
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\obj\Debug\netcoreapp3.1\staticwebassets\EShopServer.StaticWebAssets.xml
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\obj\Debug\netcoreapp3.1\EShopServer.AssemblyInfoInputs.cache
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\obj\Debug\netcoreapp3.1\EShopServer.AssemblyInfo.cs
-D:\Projects\EShop\EShopServer\EShopServer\EShopServer\obj\Debug\netcoreapp3.1\EShopServer.RazorTargetAssemblyInfo.cache
